@@ -98,3 +98,6 @@ www.techdirt.com###maincolumn &gt; .comments
 
 ! 9/27/2016, 7:27:36 PM https://techcrunch.com/
 techcrunch.com##.fluid &gt; .article-extra &gt; .l-three-col.lc &gt; .l-main-container &gt; .l-main
+
+! 9/27/2016, 7:44:27 PM https://deadspin.com/
+deadspin.com###js_discussion-region > .replies-wrapper
