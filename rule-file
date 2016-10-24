@@ -172,3 +172,47 @@ www.mirror.co.uk###row3 > .article.tmCol > .comments__wrapper
 ! 10/4/2016, 1:32:47 PM https://www.rt.com/
 www.rt.com###spot-im-frame-inpage-0
 
+! 10/2/2016, 11:17:21 PM http://www.theatlantic.com/
+.theatlantic.com###lightbox-welcome
+
+! 10/2/2016, 11:18:03 PM http://www.theatlantic.com/
+.theatlantic.com###article > .fluid-container.article-tools > .article-links > li:nth-of-type(1) > a[href="#article-comments"]
+
+! 10/3/2016, 11:25:07 AM https://slashdot.org/
+||library.slashdotmedia.com/showcase/index.php?id=dynamic&lp=SD_IMM&country=US$subdocument
+
+! 10/5/2016, 2:32:27 PM http://www.huffingtonpost.com/
+.huffingtonpost.com###us_57f4e4c5e4b04c71d6f118a8 > .entry__container > .js-entry-content.entry__content > .js-entry-body.entry__body > .js-below-entry.below-entry > .below-entry__content > .below-entry__comments
+! 10/5/2016, 2:36:27 PM http://www.bikeradar.com/
+.bikeradar.com###disqus_thread > div
+
+! 10/6/2016, 3:18:00 PM http://www.economist.com/
+www.economist.com###block-ec_components-comments_links > .clearfix.content > .clearfix.ec-comments-links-box
+
+! 10/11/2016, 7:38:20 AM http://chicago.curbed.com/
+.curbed.com###comments
+
+
+! 10/11/2016, 5:37:03 PM https://*.jezebel.com/
+.jezebel.com###js_discussion-region
+
+! 9/30/2016, 10:04:32 AM https://extranewsfeed.com/
+extranewsfeed.com###_obv\.shell\._surface_1475247856599 > .is-supplementalPostContentLoaded.surface-content.screenContent > .is-withAccentColors.postArticle--full.postArticle.u-sizeViewHeightMin100 > .u-paddingTop10 > .js-responsesWrapper.supplementalPostContent.responsesWrapper > .u-maxWidth740.container > .js-responsesStreamWrapper.u-maxWidth640.responsesStreamWrapper > .js-showOtherResponses.u-maxWidth640.container > .row > .u-sizeFullWidth.cardChromeless.responsesStream-showOtherResponses.u-accentColor--buttonNormal.button--withChrome.button--primary.button
+
+! 10/11/2016, 5:40:22 PM https://jalopnik.com/
+.jalopnik.com###js_discussion-region > .qanda-wrapper
+
+! 10/11/2016, 5:41:17 PM https://gizmodo.com/
+.gizmodo.com###js_discussion-region > .replies-wrapper
+
+! 10/11/2016, 5:41:32 PM https://gizmodo.com/
+.gizmodo.com###js_discussion-region
+
+! 10/11/2016, 5:44:55 PM https://*.jezebel.com/
+.jezebel.com###js_discussion-region > .replies-wrapper
+
+! 10/11/2016, 6:34:44 PM https://www.buzzfeed.com/
+.buzzfeed.com###responses
+
+! 10/11/2016, 6:34:59 PM https://www.buzzfeed.com/
+.buzzfeed.com###respond
