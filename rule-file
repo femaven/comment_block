@@ -21,7 +21,7 @@ chicago.suntimes.com###post-240073 &gt; .p402_premium.end.p402_premium.medium-of
 www.howtogeek.com##.overlay-bg
 
 ! 8/22/2016, 8:26:03 AM http://www.npr.org/
-||disqus.com/embed/comments/
+||disqus.com
 
 ! 8/23/2016, 8:17:45 AM https://www.thrillist.com/
 ||signup.thrillist.com/campaigns/iframe/65?destination=$subdocument
@@ -33,11 +33,14 @@ www.thrillist.com###vortex-overlay
 deals.kinja.com###js_discussion-region &gt; .replies-wrapper
 ! 8/24/2016, 1:34:36 PM http://gizmodo.com/
 gizmodo.com###js_discussion-region &gt; .replies-wrapper
+.gizmodo.com###js_discussion-region &gt; .replies-wrapper
 ! 9/30/2016, 2:54:20 PM https://*.kinja.com/
 deals.kinja.com###js_discussion-region > .replies-wrapper
 ! 9/28/2016, 3:58:23 PM https://*.kotaku.com/
 kotaku.com###js_discussion-region > .replies-wrapper
-
+.kotaku.com###js_discussion-region > .replies-wrapper
+gizmodo.com##.replies-wrapper
+.gizmodo.com##.replies-wrapper
 ! 9/28/2016, 5:24:46 PM http://www.cso.com.au
 www.cso.com.au###disqus_thread > div
 
@@ -120,7 +123,7 @@ deadspin.com###js_discussion-region > .replies-wrapper
 
 ! 9/28/2016, 1:14:05 PM https://lifehacker.com
 lifehacker.com###js_discussion-region
-
+.lifehacker.com###js_discussion-region
 ! 10/2/2016, 11:04:21 PM https://thecontrarianblogger.com/
 thecontrarianblogger.com###comments
 
@@ -195,13 +198,13 @@ www.economist.com###block-ec_components-comments_links > .clearfix.content > .cl
 
 ! 10/11/2016, 5:37:03 PM https://*.jezebel.com/
 .jezebel.com###js_discussion-region
-
+www.jezebel.com###js_discussion-region
 ! 9/30/2016, 10:04:32 AM https://extranewsfeed.com/
 extranewsfeed.com###_obv\.shell\._surface_1475247856599 > .is-supplementalPostContentLoaded.surface-content.screenContent > .is-withAccentColors.postArticle--full.postArticle.u-sizeViewHeightMin100 > .u-paddingTop10 > .js-responsesWrapper.supplementalPostContent.responsesWrapper > .u-maxWidth740.container > .js-responsesStreamWrapper.u-maxWidth640.responsesStreamWrapper > .js-showOtherResponses.u-maxWidth640.container > .row > .u-sizeFullWidth.cardChromeless.responsesStream-showOtherResponses.u-accentColor--buttonNormal.button--withChrome.button--primary.button
 
 ! 10/11/2016, 5:40:22 PM https://jalopnik.com/
 .jalopnik.com###js_discussion-region > .qanda-wrapper
-
+www..jalopnik.com###js_discussion-region > .qanda-wrapper
 ! 10/11/2016, 5:41:17 PM https://gizmodo.com/
 .gizmodo.com###js_discussion-region > .replies-wrapper
 
