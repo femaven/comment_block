@@ -75,3 +75,16 @@ www.youtube.com###watch-discussion
 www.dailymail.co.uk###reader-comments
 www.dailymail.co.uk##.rc-content
 medium.com##.js-responsesStreamWrapper.u-maxWidth640.responsesStreamWrapper
+www.catholicnewsagency.com##.coment
+www.hbs.edu###commentsDiv
+||www.facebook.com/plugins/comments.php?$subdocument
+nymag.com###comments
+vimeo.com###comments
+ussanews.com###___comments_0
+www.engadget.com###\35 25b15eccbec6854a4a8d3efec54752f-iframe
+||apis.google.com/u/0/_/widget/render/comments?usegapi=
+||disqus.com
+nymag.com##.fyre-comment-stream>.fyre-stream-stats
+
+road.cc###comments
+www.catholicnewsagency.com###gigya-feed-widget-0_EF
