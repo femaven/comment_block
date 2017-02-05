@@ -92,3 +92,23 @@ metro.co.uk###comment-show
 nerdist.com##.keystoneCommentator
 www.behance.net###project-block-footer-comments
 www.independent.co.uk##.box-comments:nth-of-type(7)
+www.youtube.com###comment-section-renderer
+www.youtube.com###watch-discussion
+www.yahoo.com###Col1-2-CanvassComments-Proxy > .canvas-canvass-comments
+deadspin.com###js_discussion-region
+www.cyberciti.biz###comments
+www.yahoo.com###eyebrow
+www.yahoo.com###UH-0-Header
+www.yahoo.com###masterNav
+gizmodo.com###js_discussion-region
+www.someecards.com###comments-3733025
+medium.com##.js-responsesStreamWrapper.u-maxWidth640.responsesStreamWrapper
+||www.facebook.com/plugins/comments.php?api_key=
+www.dailykos.com##.comment-section.col-sm-12
+www.wsj.com###livefyre-toggle-SB10577334423475444840904582587570101970642
+deals.kinja.com###js_discussion-region
+www.buzzfeed.com###fb_comments_control > .fb_comments_wrapper
+www.cloudcomputingintelligence.com##.itemComments
+lifehacker.com##.replies-wrapper
+
+boingboing.net##.separator
