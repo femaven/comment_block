@@ -110,5 +110,10 @@ deals.kinja.com###js_discussion-region
 www.buzzfeed.com###fb_comments_control > .fb_comments_wrapper
 www.cloudcomputingintelligence.com##.itemComments
 lifehacker.com##.replies-wrapper
-
+www.buzzfeed.com###responses
+www.buzzfeed.com###contribute-box
+thenextweb.com##.sheet-section.post-comments-section
+www.breakingburgh.com##.comments-wrap
+www.breakingburgh.com###respond
+www.motherjones.com###block-disqus-disqus_comments
 boingboing.net##.separator
